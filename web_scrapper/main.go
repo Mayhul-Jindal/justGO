@@ -195,11 +195,3 @@ func processTags(index int, element *goquery.Selection) {
 	}
 
 }
-
-// To upload a file, use Post instead of PostForm, provide
-// a content type like application/json or application/octet-stream,
-// and then provide the an io.Reader with the data
-
-// http.Post("http://example.com/upload", "image/jpeg", &buff)
-
-// ------------X------------X------------

@@ -8,7 +8,8 @@
 
 - It is as easy as python and as fast as cpp, making it a good server-side language.
 ## **Task list**💪
-- [ ] Basic GO_syntax
+- [X] Basic GO_syntax
+- [X] Web_scrapper with CSRF_TOKEN login
 - [ ] Simple chat app using GO concurrency
 - [ ] understanding BitTorrent client
 - [ ] Building a container from scratch 

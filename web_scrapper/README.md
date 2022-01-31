@@ -8,7 +8,17 @@ This is a basic web-scrapper used to scrape [devdungeon](https://www.devdungeon.
 
 1. Login to the website, source code in login.go 
    
-2. Custom cookie we made in the code following with the custom http header with our own user-agent because some sites may not allow the default one or they will ban it causing trouble
+![](./../img/8.jpg)
+
+2. Checking the speed simulateously of multiple websites, for example sake:
+    - https://www.google.com
+    - https://www.youtube.com
+    - https://www.facebook.com
+    - https://www.amazon.com
+
+![](./../img/7.jpg)
+
+3. Custom cookie we made in the code following with the custom http header with our own user-agent because some sites may not allow the default one or they will ban it causing trouble
   
 ![](./../img/1.jpg)
 

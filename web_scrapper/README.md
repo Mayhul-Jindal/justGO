@@ -1,5 +1,9 @@
 # **web_scrapper**
 
+## About
+This is a basic web-scrapper used to scrape [devdungeon](https://www.devdungeon.com/).
+> Note:  this website allows scrapping, not all websites permits such scrapping
+
 ## Functionality
 
 1. Login to the website, source code in login.go 

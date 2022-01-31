@@ -7,12 +7,13 @@
 - Its use case is to make performance based application, running on scaled distributed systems.
 
 - It is as easy as python and as fast as cpp, making it a good server-side language.
-## **Task list**💪
-- [X] Basic GO_syntax
-- [X] Web_scrapper with CSRF_TOKEN login
-- [ ] Simple chat app using GO concurrency
-- [ ] understanding BitTorrent client
-- [ ] Building a container from scratch 
   
+## **Tasklist**💪
+
+| Projects  | Status |
+| ------------- | ------------- |
+|  Web_scrapper with CSRF_TOKEN login | ✅  |
+|  Understanding BitTorrent client | ⬜  |
+|  Building a container from scratch | ⬜  |
 
   

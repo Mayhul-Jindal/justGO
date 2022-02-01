@@ -22,22 +22,22 @@ This is a basic web-scrapper used to scrape [devdungeon](https://www.devdungeon.
   
 ![](./../img/1.jpg)
 
-3. Saving the http response body in an output.html file
+4. Saving the http response body in an output.html file
 
 ![](./../img/5.jpg)
 
-4. Title is scrapped from the output.html file using sub-string matching to find the element
+5. Title is scrapped from the output.html file using sub-string matching to find the element
 
 ![](./../img/2.jpg)
 
-5. Comments are scrapped from output.html file using regular expressions
+6. Comments are scrapped from output.html file using regular expressions
 
 ![](./../img/3.jpg)
 
-6. Links from the page are scrapped using goquery
+7. Links from the page are scrapped using goquery
 
 ![](./../img/4.jpg)
 
-7. Parsing complex url to retrieve any one from protocol, authority, host name, port number, path, query, filename, and reference
+8. Parsing complex url to retrieve any one from protocol, authority, host name, port number, path, query, filename, and reference
 
 ![](./../img/6.jpg)
